@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://ilija139.github.io/gh-pages/hello.html",
-            "url": "https://ilija139.github.io/gh-pages/hello.html",
+            "id": "https://ilija139.github.io/gh-pages/hello/",
+            "url": "https://ilija139.github.io/gh-pages/hello/",
             "title": "Hello",
             "summary": "Wham, bam, thank you ma'am!",
             "content_html": "Wham, bam, thank you ma'am!",
@@ -25,8 +25,8 @@
             "date_modified": "2018-08-29T20:31:11+08:00"
         },
         {
-            "id": "https://ilija139.github.io/gh-pages/very-girly.html",
-            "url": "https://ilija139.github.io/gh-pages/very-girly.html",
+            "id": "https://ilija139.github.io/gh-pages/very-girly/",
+            "url": "https://ilija139.github.io/gh-pages/very-girly/",
             "title": "Very girly ",
             "summary": "<p> </p>\n",
             "content_html": "<p> </p>\n\n<table>\n<tbody>\n<tr>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n<tr>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n<td> </td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p>## 3 das koda </p>\n<p>sadkj </p>\n<p> </p>\n<figure class=\"post__image post__image--full\" ><img src=\"https://ilija139.github.io/gh-pages/media/posts/1/IMG_3640.PNG\" alt=\"Two dots\" width=\"640\" height=\"1136\">\n<figcaption >Two captions</figcaption>\n</figure>\n<p> </p>\n<div class=\"gallery\"   >\n<figure class=\"gallery__item\"><a href=\"https://ilija139.github.io/gh-pages/media/posts/1/gallery/IMG_3620.JPG\" ><img src=\"https://ilija139.github.io/gh-pages/media/posts/1/gallery/IMG_3620-thumbnail.JPG\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://ilija139.github.io/gh-pages/media/posts/1/gallery/IMG_3622.JPG\" ><img src=\"https://ilija139.github.io/gh-pages/media/posts/1/gallery/IMG_3622-thumbnail.JPG\" alt=\"\" width=\"340\" height=\"340\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://ilija139.github.io/gh-pages/media/posts/1/gallery/IMG_3621.JPG\" ><img src=\"https://ilija139.github.io/gh-pages/media/posts/1/gallery/IMG_3621-thumbnail.JPG\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div>\n<p> </p>",

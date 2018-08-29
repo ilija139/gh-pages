@@ -3,12 +3,34 @@
     <title>TestBorovnica</title>
     <link href="https://ilija139.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://ilija139.github.io/gh-pages" />
-    <updated>2018-08-29T20:26:20+08:00</updated>
+    <updated>2018-08-29T20:31:21+08:00</updated>
     <author>
         <name>Boro</name>
     </author>
     <id>https://ilija139.github.io/gh-pages</id>
 
+    <entry>
+        <title>Hello</title>
+        <author>
+            <name>Boro</name>
+        </author>
+        <link href="https://ilija139.github.io/gh-pages/hello.html"/>
+        <id>https://ilija139.github.io/gh-pages/hello.html</id>
+
+        <updated>2018-08-29T20:31:11+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://ilija139.github.io/gh-pages/media/posts/2/" alt="" />
+                    Wham, bam, thank you ma'am!
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://ilija139.github.io/gh-pages/media/posts/2/" alt="" />
+                Wham, bam, thank you ma'am!
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Very girly </title>
         <author>

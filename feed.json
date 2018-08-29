@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://ilija139.github.io/gh-pages/hello.html",
+            "url": "https://ilija139.github.io/gh-pages/hello.html",
+            "title": "Hello",
+            "summary": "Wham, bam, thank you ma'am!",
+            "content_html": "Wham, bam, thank you ma'am!",
+            "image": "https://ilija139.github.io/gh-pages/media/posts/2/",
+            "author": {
+                "name": "Boro"
+            },
+            "tags": [
+            ],
+            "date_published": "2018-08-29T20:31:11+08:00",
+            "date_modified": "2018-08-29T20:31:11+08:00"
+        },
+        {
             "id": "https://ilija139.github.io/gh-pages/very-girly.html",
             "url": "https://ilija139.github.io/gh-pages/very-girly.html",
             "title": "Very girly ",
